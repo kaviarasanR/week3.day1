@@ -17,7 +17,7 @@ public class Execution {
 	a.shiftGear();
 	a.applyBrake();
 	a.drive();
-	System.out.println("this is for Auto ");
+	System.out.println("this is for Bajaj ");
 	Bajaj ba=new Bajaj();
 	ba.fillFuel();
 	ba.applyBrake();
